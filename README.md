@@ -2,6 +2,8 @@
 
 This project holds the source files and executables of the JALV2 compiler.
 
+This version will soon include support for PIC32 and ESP32.
+
 JALV2 is a high level language designed to hide the general nuisance of programming a MicroChip PIC
 processor. The language is loosely based on Pascal. The compiler is available for Window and Linux
 both as 32-bit or 64-bit executable. 
